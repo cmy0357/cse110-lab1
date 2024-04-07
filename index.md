@@ -1,4 +1,8 @@
 # Mingyang's User Page
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Contact](#contact)
+
 ## About Me
 Hello, my name is **Mingyang Chen**. I'm a third year undergraduate student at [UCSD](https://www.ucsd.edu) majoring in *Math-Computer Science*. 
 
